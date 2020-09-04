@@ -4,7 +4,7 @@ var gameState = 0;
 var playerCount=0;
 var allPlayers;
 var database;
-
+var distance = 0;
 var form, player, game;
 
 
